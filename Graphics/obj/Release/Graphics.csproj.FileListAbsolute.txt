@@ -1,0 +1,10 @@
+C:\Users\tyutko\source\repos\Graphics\Graphics\bin\Release\Graphics.exe.config
+C:\Users\tyutko\source\repos\Graphics\Graphics\bin\Release\Graphics.exe
+C:\Users\tyutko\source\repos\Graphics\Graphics\bin\Release\Graphics.pdb
+C:\Users\tyutko\source\repos\Graphics\Graphics\obj\Release\Graphics.csprojAssemblyReference.cache
+C:\Users\tyutko\source\repos\Graphics\Graphics\obj\Release\Graphics.Form1.resources
+C:\Users\tyutko\source\repos\Graphics\Graphics\obj\Release\Graphics.Properties.Resources.resources
+C:\Users\tyutko\source\repos\Graphics\Graphics\obj\Release\Graphics.csproj.GenerateResource.cache
+C:\Users\tyutko\source\repos\Graphics\Graphics\obj\Release\Graphics.csproj.CoreCompileInputs.cache
+C:\Users\tyutko\source\repos\Graphics\Graphics\obj\Release\Graphics.exe
+C:\Users\tyutko\source\repos\Graphics\Graphics\obj\Release\Graphics.pdb
